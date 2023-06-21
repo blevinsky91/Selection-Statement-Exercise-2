@@ -11,19 +11,19 @@
 
             switch (subject.ToLower())
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("Not quite");
                     break;
-                case "History":
+                case "history":
                     Console.WriteLine("Not bad, but no");
                     break;
-                case "English":
+                case "english":
                     Console.WriteLine("No chance!");
                     break;
-                case "Spanish":
+                case "spanish":
                     Console.WriteLine("No bueno!");
                     break;
-                case "Science":
+                case "science":
                     Console.WriteLine("You know it!");
                     break;
                 default:
